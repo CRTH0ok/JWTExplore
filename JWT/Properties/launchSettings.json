@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "JWT": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "api/JWT/GetJWT/Araby",
+      "applicationUrl": "http://localhost:5000",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
